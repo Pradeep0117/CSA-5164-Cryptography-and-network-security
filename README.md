@@ -13,4 +13,6 @@
 ![image](https://user-images.githubusercontent.com/113408991/211828788-f3f47c59-4159-42e8-bc6b-8bc3c4e614a8.png)
 #7 RSA
 ![image](https://user-images.githubusercontent.com/113408991/211829921-3090321c-d626-4c89-ad4a-8054d2844297.png)
+#8 diffie hellman
+![image](https://user-images.githubusercontent.com/113408991/211830989-e9e16c6b-12f6-4f72-8ffb-260275c767ee.png)
 
