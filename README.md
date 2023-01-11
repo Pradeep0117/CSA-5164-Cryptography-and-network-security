@@ -7,4 +7,6 @@
 ![image](https://user-images.githubusercontent.com/113408991/211824932-e840d023-65ed-4cc4-ad4b-cb260b22098c.png)
 #4 vigner cipher
 ![image](https://user-images.githubusercontent.com/113408991/211826158-69033f15-b14d-495d-b2b8-a046a50f4a91.png)
+#5 railfence
+![image](https://user-images.githubusercontent.com/113408991/211827683-bfc329bd-2e0a-4eec-9eb0-a0a17f5d4ba9.png)
 
